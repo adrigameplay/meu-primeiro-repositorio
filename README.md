@@ -1,4 +1,4 @@
-#INDEX.html#
+# INDEX.html #
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
@@ -36,7 +36,7 @@
         </div>
 	</body>
 </html>
-#STYLE.css#
+# STYLE.css #
 
 
 body {
